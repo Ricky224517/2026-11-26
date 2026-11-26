@@ -1,4 +1,3 @@
-def fun1(n,c):
-    for i in range(n):
+def fun1(m,c):
+    for i in range(m):
         print((i+1)*c)
-fun1(5,"#") 
