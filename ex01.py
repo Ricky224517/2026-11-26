@@ -1,7 +1,7 @@
-import D1546985_math
+import D1546985_math as x1
 
 n = int(input("n="))
-if D1546985_math.isPrime(n):
+if x1.isPrime(n):
     print(f"{n} is prime")
 else:
     print(f"{n} is not prime")    
